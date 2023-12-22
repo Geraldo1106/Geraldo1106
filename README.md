@@ -1,5 +1,6 @@
-👋 Hi,I’m Gerald Cyril
-   flutter developer
+👋 Hi,I’m Gerald Cyril... 
+   a flutter developer 👨🏾‍💻
+   contact me @: 
  📫 geraldcyrilita@gmail.com
 
 <!---
